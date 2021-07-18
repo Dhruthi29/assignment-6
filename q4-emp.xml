@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "employee.xsl"?>   
+<class>   
+   <employee id = "001">  
+      <firstname>Ayush</firstname>   
+      <lastname>M</lastname>   
+      <middlename>N</middlename>   
+      <fathername>XSNY</fathername>  
+       <dob>20-07-1999</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>BCA</qualification>
+       <salary>80000</salary>
+   </employee>  
+</class>  
